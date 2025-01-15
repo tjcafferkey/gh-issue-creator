@@ -34,4 +34,6 @@ title,body,labels
 
 ## TODO
 
-- Add support for markdown description
+- Add better markdown support, perhaps using a UI?
+- Add support for Assignees
+- Add support for Project Boards
