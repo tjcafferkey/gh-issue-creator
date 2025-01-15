@@ -1,0 +1,4 @@
+title,body,labels
+"Fix login bug","The login form doesn't validate email","bug,high-priority"
+"Add new feature","Add a new feature to the product","feature,medium-priority"
+"Fix bug in checkout","The checkout process doesn't handle errors","bug,low-priority"
