@@ -31,3 +31,7 @@ title,body,labels
 
 - The script will skip the first line of the CSV file (the headings)
 - If there is an error with assigning labels, the issue will be created without labels.
+
+## TODO
+
+- Add support for markdown description
